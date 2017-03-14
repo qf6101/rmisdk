@@ -1,0 +1,3 @@
+rmi://localhost:7003/HelloService
+rmi://localhost:7004/HelloService
+rmi://localhost:7005/HelloService
